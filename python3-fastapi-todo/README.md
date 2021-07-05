@@ -1,4 +1,4 @@
-# python3-fastapi-todo-react-ts
+# python3-fastapi-todo
 
 First thing, if you are a Linux's user, you need some dependencies like: **python3-pip** and **python3-venv**.
 
