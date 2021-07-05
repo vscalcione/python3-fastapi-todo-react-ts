@@ -1,0 +1,6 @@
+# backend directory
+backend/venv/*
+backend/__pycache__/*
+
+# frontend directory
+frontend/node_modules/*
